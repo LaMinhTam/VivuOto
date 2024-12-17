@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://vivuoto-rental.vercel.app/sitemap.xml
